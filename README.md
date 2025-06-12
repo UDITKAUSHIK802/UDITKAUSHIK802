@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UDITKAUSHIK802
 - 👀 I’m interested in AI, IOT and EMBEDDED
-- 🌱 I’m currently learning Btech ECR
+- 🌱 I’m currently learning Btech ECE
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Github 
 - 😄 Pronouns: He/Him
